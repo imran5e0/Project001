@@ -1,0 +1,112 @@
+Name,Season,MinTemp,MaxTemp,Minhumid,Maxhumid,Soil
+Lotus,spring,23,30,50,60,brown
+Jasmine,summer,15,23,50,70,black
+Sunflower,summer,7,10,40,60,light black
+Daisy,winter,7,10,60,70,black
+Tulip,winter,10,20,65,85,black
+Magnolia,spring,20,25,75,80,brown
+Lavender,summer,20,30,60,70,black
+Balsam,summer,10,20,21,30,black
+Flax,summer,10,27,50,60,black
+Butterfly Pea,sping,16,30,75,85,light black
+Crossandra,spring,28,35,65,75,black
+Golden Shower,summer,28,38,70,80,yellow
+Forest Ghost,rainy ,20,35,60,70,brown
+Yellow Marigold,summer,18,20,10,40,light black
+Pot Marigold,spring,18,32,10,40,light black
+Star Jasmine,monsoon,18,25,50,65,black
+Night Blooming Jasmine,spring,16,30,70,85,brown
+Jasminum Sambac,summer,4,10,40,60,brown
+Crape Jasmine,summer,26,38,65,72,light brown
+White Frangipani,winter,10,25,21,30,black
+Hibiscus,summer,16,32,72,85,black
+Peacock Flower,spring,18,24,50,66,brown
+Daisies,spring,16,22,75,85,black
+Scarlet Milkweed,winter,25,35,55,70,light black
+Black Turmeric,winter,41,45,80,90,black
+Cobra Saffron,rainy ,-15,40,75,80,black
+Yellow Oleander,spring,15,20,40,60,light black
+Chandramallika,spring,15,20,40,60,light brown
+Periwinkle,spring,20,20,40,60,black
+Puncture Vine,winter,18,25,10,40,red
+Blue Water Lily,summer,30,45,31,45,black
+Aloe Vera Flower,winter,10,30,21,30,light brown
+Shameplant,spring,9,16,70,85,light brown
+Chamomile,spring,30,32,40,50,light black
+Delonix Regia,winter,10,30,50,85,black
+Night Flowering Jasmine,spring,16,30,60,70,black
+Hiptage,spring,15,28,50,65,light brown
+Murraya,summer,27,41,60,72,black
+Narcissus,winter,14,24,55,65,light brown
+Pandanus,summer,28,40,60,70,black
+Sweet Violet,winter,18,28,10,40,black
+Poppy Flower,winter,10,20,50,75,black
+Grand Crinum Lily,summer,28,42,40,70,brown
+Prickly Pear,spring,15,20,40,60,brown
+Creeper,summer,28,38,65,72,light black
+Stramonium,summer,30,40,70,80,black
+Hollyhock,spring,22,34,60,70,brown
+Dahlia,rainy,15,25,45,55,light black
+Lady’s slipper orchid,rainy,21,24,44,55,light brown
+Foxtail Orchid,mansoon,10,27,50,65,light black
+Pansy,winter,7,18,70,80,light black
+Bluestar Flower,summer,20,27,10,40,black
+Butea Monosperma,winter,16,22,55,60,brown
+Primrose,rainy,10,26,55,60,brown
+Purple Passion,rainy,13,18,40,60,black
+indian tulip,winter,15,29,40,60,light black
+Zombi Pea,winter,20,28,60,70,black
+Millingtonia Hortensis,winter,18,26,50,65,brown
+Orchid,summer,21,29,10,40,brown
+star glory,summer,28,38,65,72,black
+Indigo Flower,spring,22,28,50,60,light brown
+Lilac,winter,-5,-15,10,30,brown
+Queen Crape Myrtle,summer,18,34,10,40,red
+Blue Morning Glory,summer,18,34,10,40,light black
+Picotee Blue Morning Glory,summer,28,38,65,70,light black
+Tanner’s Cassia,summer,30,40,60,70,light red
+Bougainvillea,winter,16,38,65,70,black
+Glory Lily,spring,15,25,40,60,brown
+Brahma Kamal,rainy,24,33,40,50,red
+Burr Mallow,spring,0,10,10,30,light black
+Blue Fountain Bush,spring,22,35,65,75,brown
+Burmann’s Sundew,winter,18,28,60,70,light black
+Spanish Cherry,winter,18,26,50,70,black
+Ixora Coccinea,summer,28,38,65,75,black
+Mountain Laurel,spring,20,28,50,60,ligth brown
+Mexican Tuberose,spring,20,28,50,60,black
+Common Lantana,spring,22,28,50,60,yellow
+Rohira,summer,22,35,65,75,light red
+cockscomb,summer,15,18,40,60,black
+Mexican Prickly Poppy,summer,24,26,55,65,yellow
+Showy Rattlepod,winter,10,25,50,60,light brown
+Crown,summer,30,40,60,72,light black
+Canna Lily,summer,28,38,65,75,black
+Common Crape Myrtle,summer,32,41,60,72,brown
+Siroi Lily,rainy,30,41,60,72,light brown
+Ashok Flower,summer,28,38,70,75,light black
+Golden Frangipani,winter ,20,25,50,60,black
+Monsoon lily,spring,30,40,60,70,dark black
+Orange Tiger Lily,summer,28,38,65,70,black
+Blood Lily,summer,27,36,65,70,light black
+Asiatic Lily,summer,26,38,70,75,light black
+Ranunculus Flower,spring,22,28,50,60,brown
+Hypericum flower,rainy,22,32,60,70,light brown
+Columbine Flower,spring,18,28,50,60,black
+Mirabilis Jalapa,common,18,28,50,60,light black
+Anemone Flower,spring,18,28,50,60,black
+Plumeria,summer,21,30,55,60,brown
+Tuberose Flower,spring,16,28,50,60,black
+Bluebell flower,summer,30,40,60,70,black
+Rose,rainy,22,32,60,75,black
+Plumeria,rainy,21,30,55,60,brown
+Monsoon lily,summer,30,40,60,70,dark black
+Sweet Violet,spring,18,28,10,40,black
+Yellow Oleander,summer,15,20,40,60,light black
+Hibiscus,rainy,16,32,72,85,black
+Crape Jasmine,rainy,26,38,65,72,light brown
+Pot Marigold,summer,18,32,10,40,light black
+Flax,winter,10,27,50,60,black
+Lavender,winter,20,30,60,70,black
+Sunflower,rainy,7,10,40,60,light black
+Jasmine,rainy,15,23,50,70,black

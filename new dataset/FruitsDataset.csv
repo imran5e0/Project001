@@ -1,0 +1,184 @@
+Name,Season,MinTemp,MaxTemp,Minhumid,Maxhumid,Soil
+Mango,summer,23,30,50,95,black
+Apple,winter,21,24,90,95,brown
+Orange,winter,12,37,45,50,black
+Promogranate,monsoon,32,41,80,85,light grey
+Guava,spring,20,25,75,85,black
+Grapes,spring ,25,32,50,90,black
+Banana,monsoon,13,38,65,80,brown
+Custard Apple,winter ,15,20,70,80,black
+Watermelon,winter,21,32,60,80,dark brown
+BlueBerry,winter,-25,-20,70,90,red
+BlackBerry,winter,0,10,90,98,dark brown
+Cherry,winter,30,45,26,30,drak brown
+Coconut,rainy,27,72,80,85,dark brown
+Papaya,monson,21,32,30,40,dark brown
+Pineapple,summer,15,30,30,50,reddish brown
+Lychee,summer,30,32,85,90,brown
+Strawberry,monsoon,16,27,70,80,black
+Sapota,winter,10,38,65,75,brown
+Lemon,summer,25,40,50,60,black
+Cashew Apple,winter,20,30,85,90,brown
+Mosambi,winter,17,35,60,80,brown
+Pear,winter,0,47,65,75,brown
+Peach,summer,10,25,55,65,brown
+Apricot,monsoon,0,8,85,95,black
+Anjeer,spring,15,21,70,80,red
+Plum,summer,20,30,75,80,brown
+Kiwi,winter,7,35,10,17,dark brown
+Apple Ber,monsoon,15,27,85,90,red
+Mangosteen,monsoon,5,35,70,80,sandy
+Mosambi,summer,25,40,75,85,red
+Jackfruit,summer,10,25,85,95,brown
+Starfruit,monsoon,25,35,30,49,brown
+Java plum,monsoon,20,32,80,85,red
+Java plum,spring ,12,48,80,85,red
+Fig,spring,15,21,50,60,black
+Jujube,winter,7,13,40,50,sandy
+Muskmelon,winter,25,35,90,95,red
+Dragon fruit,monsoon,20,35,70,80,brown
+Avocado,monsoon,3,32,45,60,brown
+Passion fruit ,summer,20,30,80,85,brown
+Water Apple,summer,21,24,90,95,brown
+Grapefruit,winter,10,40,90,95,brown
+Longan,spring ,21,29,60,80,sandy
+Canistel,monsoon,24,30,75,90,brown
+Phalsa,summer,3,44,55,65,sandy
+Ice Apple,summer,2,35,50,60,brown
+Durian,monsoon,10,46,70,90,sandy
+Rambutan,monsoon,22,30,65,95,sandy
+Buddhas hand,winter,8,15,85,90,dark brown
+Bael,summer,35,45,75,80,sandy
+Golden Apple,summer,21,24,90,95,brown
+Stone Apple,summer,21,24,90,95,brown
+Wood Apple,summer,21,24,90,95,brown
+Kashmiri Apple,summer,21,24,90,95,brown
+Green Apple,summer,21,24,90,95,brown
+Honey Crisp,summer,21,24,90,95,brown
+Golden Delicious ,summer,21,24,90,95,brown
+Yellow Delicious,summer,21,24,90,95,brown
+Sunehari,summer,21,24,90,95,brown
+Fuji Apple,summer,21,24,90,95,brown
+Tydemans Early,summer,21,24,90,95,brown
+Red Delicious,summer,21,24,90,95,brown
+Gala Apple,summer,21,24,90,95,brown
+Irish fruit,summer,21,24,90,95,brown
+Parlins beauty,summer,21,24,90,95,brown
+Winesap Apple,summer,21,24,90,95,brown
+Starking Delicious,summer,21,24,90,95,brown
+mandarin,winter,12,37,85,90,sandy
+Tangerine,winter,25,40,60,70,black
+Pink Grapefruit,winter,12,37,85,95,loamy
+Clementine,monsoon,12,37,30,40,sandy 
+Cara cara orange,winter,12,37,45,50,loamy
+Heirloom navel,winter,12,37,45,50,brown
+Blood orange,winter,12,37,85,90,brown
+Meyer Lemon,winter,25,40,50,65,loamy
+Tangor,monsoon,13,37,50,65,loamy
+Galgal,winter,25,32,50,65,loamy
+Kinnow,monsoon,13,37,85,90,sandy
+Pomelo,monsoon,25,32,80,90,black
+Bitter orange,monsoon,13,37,20,25,black
+Wild orange,monsoon,13,38,80,90,black
+Kaffir lime,summer,19,30,50,65,black
+Sultana,summer,25,32,50,90,brown
+Thompson grapes,summer,25,32,50,90,brown
+Dilkhush,summer,25,32,50,90,brown
+Bangalore Blue ,summer,25,32,50,90,brown
+Sharad Seedless,summer,25,32,50,90,brown
+Perlette,monsoon,25,32,50,90,brown
+Mulberry,rainy,24,28,65,80,red
+Morus alba,rainy,24,28,65,80,red
+Quince,spring,18,21,90,95,brown
+Amla,summer,30,46,40,55,red
+Goose berry,monsoon,20,46,40,55,brown
+Rasbhari fruit,monsoon,21,25,90,95,brown
+Ground berry,monsoon,21,25,90,95,brown
+Golden berry,monsoon,21,25,90,95,brown
+Ber,winter,25,44,25,34,black
+Carissa berry,summer,3,44,50,60,brown
+Sherbet berry,summer,3,44,50,60,sandy
+Char berry,summer,3,44,85,95,sandy
+Goji berry ,summer,3,44,85,95,sandy
+Wolfberry,summer,3,44,85,95,sandy
+Apple Ber,winter,20,30,85,90,black
+Mangosteen,summer,5,35,69,91,sandy
+Jackfruit,spring ,11,13,85,95,brown
+Starfruit,winter,25,35,90,95,loamy
+Jamun,monsoon,20,32,80,85,red
+Jamun,spring ,12,48,80,85,red
+Sitaphal,winter ,15,20,70,80,sandy
+Coconut,winter,27,32,80,85,dark brown
+Coconut,spring,27,32,80,85,dark brown
+Coconut,monsoon,27,32,80,85,dark brown
+Coconut,rainy,27,32,80,85,dark brown
+Passion fruit ,monsoon,20,30,80,85,brown
+Longan,summer,27,35,84,90,sandy
+Falsa,summer,3,44,55,65,sandy
+Gondhoraj Lemon,summer,20,30,50,65,loamy
+Muskmelon,winter,25,35,90,95,brown
+Muskmelon,winter,25,35,90,95,black
+Java plum,monsoon,20,32,80,85,sandy
+Java plum,spring ,12,48,80,85,sandy
+Java plum,monsoon,20,32,80,85,brown
+Java plum,spring ,12,48,80,85,brown
+Jamun,monsoon,20,32,80,85,sandy
+Jamun,spring ,12,48,80,85,sandy
+Jamun,monsoon,20,32,80,85,brown
+Jamun,spring ,12,48,80,85,brown
+Passion fruit ,summer,20,30,80,85,red
+Phalsa,summer,3,44,55,65,brown
+Phalsa,summer,3,44,55,65,red
+Falsa,summer,3,44,55,65,brown
+Falsa,summer,3,44,55,65,red
+Apple,winter,21,24,90,95,black
+Golden Apple,summer,21,24,90,95,black
+Stone Apple,summer,21,24,90,95,black
+Wood Apple,summer,21,24,90,95,black
+Kashmiri Apple,summer,21,24,90,95,black
+Green Apple,summer,21,24,90,95,black
+Honey Crisp,summer,21,24,90,95,black
+Golden Delicious ,summer,21,24,90,95,black
+Yellow Delicious,summer,21,24,90,95,black
+Sunehari,summer,21,24,90,95,black
+Fuji Apple,summer,21,24,90,95,black
+Tydemans Early,summer,21,24,90,95,black
+Red Delicious,summer,21,24,90,95,black
+Gala Apple,summer,21,24,90,95,black
+Irish fruit,summer,21,24,90,95,black
+Parlins beauty,summer,21,24,90,95,black
+Winesap Apple,summer,21,24,90,95,black
+Starking Delicious,summer,21,24,90,95,black
+Blood orange,winter,12,37,85,90,red
+Meyer Lemon,winter,25,40,50,65,sandy
+Meyer Lemon,winter,25,40,50,65,brown
+Meyer Lemon,winter,25,40,50,65,red
+Meyer Lemon,winter,25,40,50,65,black
+Pomelo,monsoon,25,32,55,66,brown
+Sultana,summer,25,32,50,90,sandy
+Thompson grapes,summer,25,32,50,90,sandy 
+Dilkhush,summer,25,32,50,90,sandy 
+Bangalore Blue ,summer,25,32,50,90,sandy
+Sharad Seedless,summer,25,32,50,90,sandy
+Perlette,monsoon,25,32,50,90,sandy
+Amla,summer,30,46,21,40,brown
+Ber,winter,21,24,85,90,sandy
+Sherbet berry,summer,3,44,50,60,black
+Sherbet berry,summer,3,44,50,60,brown
+Mangosteen,summer,5,35,69,91,loamy
+Jackfruit,spring ,20,25,85,95,red
+Jackfruit,spring ,20,25,85,95,black
+Jackfruit,spring ,20,25,85,95,sandy
+Sitaphal,winter ,15,20,70,80,loamy
+Custard Apple,winter ,15,20,70,80,sandy
+Custard Apple,winter ,15,20,70,80,loamy
+Gondhoraj Lemon,summer,25,30,50,65,sandy
+Gondhoraj Lemon,summer,25,30,50,65,brown
+Gondhoraj Lemon,summer,25,30,50,65,red
+Gondhoraj Lemon,summer,25,30,50,65,black
+Sapota,spring,10,38,65,75,brown
+Blood orange,summer,12,37,85,90,red
+Blood orange,summer,12,37,85,90,brown
+Pineapple,autumn,15,30,30,50,reddish brown
+Jujube,summer,7,13,40,50,sandy
+Cara cara orange,summer,12,37,45,50,loamy

@@ -1,0 +1,101 @@
+Name,Season,MinTemp,MaxTemp,Minhumid,Maxhumid,Soil
+Blackpepper,rainy,23,32,50,60,red
+Cinnamon,monsoon,20,30,60,70,brown
+Alovera,monsoon,18,30,10,40,black
+Ginger,summer,21,25,60,70,black
+Sandalwood,monsoon,12,35,50,60,red
+Ashwagandha,winter,20,35,90,100,red
+Red clover,summer,20,30,60,70,black
+Burdock,winter,20,25,75,80,black
+Bayberry,winter,25,28,85,90,black
+Basil,summer,27,32,40,60,black
+Fennel,summer,15,25,50,65,black
+Chives,summer,4,30,40,60,black
+Cilantro,spring,10,30,50,85,black
+Apple mint,summer,-23,-18,78,92,black
+Thyme,summer,20,30,55,78,black
+Golden orengno,summer,18,21,50,66,black
+Rosemary,spring,20,30,45,55,black
+Variegated sage,spring,15,21,60,70,black
+Holy basil,summer,27,32,40,60,black
+Curry leaves,winter,26,37,65,72,red
+Mint,spring,20,40,31,45,black
+Carrom,monsoon,15,27,60,70,black
+Dill,spring,16,18,72,85,black
+LemonGrass,monsoon,20,30,55,70,brown
+Musk Fenugreek,summer,10,35,21,30,black
+Kasturi Maithi,summer,10,35,21,30,black
+Ajwain,monsoon,15,27,60,70,black
+Pudina,spring,20,40,31,45,black
+Common pepper,rainy,23,32,50,60,red
+White pepper,rainy,23,32,50,60,red
+Madagascar pepper,rainy,23,32,50,60,red
+Burn plant,monsoon,18,30,10,40,black
+Cape aloe,monsoon,18,30,10,40,black
+India ginseng,winter,20,35,90,100,black
+Poison gooseberry,winter,20,35,90,100,black
+Winter cherry,winter,20,35,90,100,black
+Wild clover,summer,20,30,60,70,black
+Meadow trefoil,summer,20,30,60,70,black
+Bee bread,summer,20,30,60,70,black
+Trefoil,summer,20,30,60,70,black
+Cow grass,summer,20,30,60,70,black
+Purple clover,summer,20,30,60,70,black
+Three-leafed grass,summer,20,30,60,70,black
+Marjoram,winter,20,25,75,80,black
+Galanga,winter,20,25,75,80,black
+Clotbur,winter,20,25,75,80,black
+Dandelion,winter,20,25,75,80,black
+Vervain,winter,20,25,75,80,black
+Pennyroyal,winter,20,25,75,80,black
+Meadowseet,winter,20,25,75,80,black
+Arctium,winter,20,25,75,80,black
+Elderberry,winter,20,25,75,80,black
+Bhang,summer,15,25,50,65,black
+Cannabis,summer,15,25,50,65,black
+Fiber,summer,15,25,50,65,black
+Flax,summer,15,25,50,65,black
+Hashish,summer,15,25,50,65,black
+Jute,summer,15,25,50,65,black
+Marijuana,summer,15,25,50,65,black
+Abaca,summer,15,25,50,65,black
+Cive,summer,4,30,40,60,black
+Tarragon,summer,4,30,40,60,black
+Horseradish,summer,4,30,40,60,black
+Shallot,summer,4,30,40,60,black
+Coriander,summer,4,30,40,60,black
+Vinaigrette,summer,4,30,40,60,black
+Herbaceous,summer,20,30,55,78,brown
+Genus thymus,summer,20,30,55,78,brown
+Thymus vulgaris,summer,20,30,55,78,brown
+Thymus serpyllum,summer,20,30,55,78,brown
+wild thyme,summer,20,30,55,78,brown
+Creeping thyme,summer,20,30,55,78,brown
+Thymus,summer,20,30,55,78,brown
+Oregano,summer,18,21,50,66,black
+Origanum vulgare,summer,18,21,50,66,black
+Pot marjoram,summer,18,21,50,66,black
+Wild marjoram,summer,18,21,50,66,black
+Winter sweet,summer,18,21,50,66,black
+Compass plant,spring,20,30,45,55,black
+Compass weed,spring,20,30,45,55,black
+Encensier,spring,20,30,45,55,black
+Old man,spring,20,30,45,55,black
+Polar plant,spring,20,30,45,55,black
+Romarin,spring,20,30,45,55,black
+Romero,spring,20,30,45,55,black
+Rusmari,spring,20,30,45,55,black
+Rusmary,spring,20,30,45,55,black
+Garden sage,spring,15,21,60,70,black
+Kadi Patta,winter,26,37,65,72,red
+Karibevu,winter,26,37,65,72,red
+Mitho Limdo,winter,26,37,65,72,red
+Karuvepillai,winter,26,37,65,72,red
+Ajowan caraway,monsoon,15,27,60,70,red
+Thymol seeds,monsoon,15,27,60,70,red
+Bishop's weed,monsoon,15,27,60,70,red
+Dill weed,spring,16,18,72,85,brown
+Tarragon,spring,16,18,72,85,brown
+Chive,spring,16,18,72,85,brown
+Leeks,spring,16,18,72,85,brown
+Tulsi,summer,27,32,40,60,black

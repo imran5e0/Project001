@@ -1,0 +1,655 @@
+Name,Season,MinTemp,MaxTemp,Minhumid,Maxhumid,Soil
+Flower,spring,23,30,50,60,brown
+Flower,summer,15,23,50,70,black
+Flower,summer,7,10,40,60,light black
+Flower,winter,7,10,60,70,black
+Flower,winter,10,20,65,85,black
+Flower,spring,20,25,75,80,brown
+Flower,summer,20,30,60,70,black
+Flower,summer,10,20,21,30,black
+Flower,summer,10,27,50,60,black
+Flower,spring,16,30,75,85,light black
+Flower,spring,28,35,65,75,black
+Flower,summer,28,38,70,80,yellow
+Flower,rainy,20,35,60,70,brown
+Flower,summer,18,20,10,40,light black
+Flower,spring,18,32,10,40,light black
+Flower,monsoon,18,25,50,65,black
+Flower,spring,16,30,70,85,brown
+Flower,summer,4,10,40,60,brown
+Flower,summer,26,38,65,72,light brown
+Flower,winter,10,25,21,30,black
+Flower,summer,16,32,72,85,black
+Flower,spring,18,24,50,66,brown
+Flower,spring,16,22,75,85,black
+Flower,winter,25,35,55,70,light black
+Flower,winter,41,45,80,90,black
+Flower,rainy,-15,40,75,80,black
+Flower,spring,15,20,40,60,light black
+Flower,spring,15,20,40,60,light brown
+Flower,spring,20,20,40,60,black
+Flower,winter,18,25,10,40,red
+Flower,summer,30,45,31,45,black
+Flower,winter,10,30,21,30,light brown
+Flower,spring,9,16,70,85,light brown
+Flower,spring,30,32,40,50,light black
+Flower,winter,10,30,50,85,black
+Flower,spring,16,30,60,70,black
+Flower,spring,15,28,50,65,light brown
+Flower,summer,27,41,60,72,black
+Flower,winter,14,24,55,65,light brown
+Flower,summer,28,40,60,70,black
+Flower,winter,18,28,10,40,black
+Flower,winter,10,20,50,75,black
+Flower,summer,28,42,40,70,brown
+Flower,spring,15,20,40,60,brown
+Flower,summer,28,38,65,72,light black
+Flower,summer,30,40,70,80,black
+Flower,spring,22,34,60,70,brown
+Flower,rainy,15,25,45,55,light black
+Flower,rainy,21,24,44,55,light brown
+Flower,monsoon,10,27,50,65,light black
+Flower,winter,7,18,70,80,light black
+Flower,summer,20,27,10,40,black
+Flower,winter,16,22,55,60,brown
+Flower,rainy,10,26,55,60,brown
+Flower,rainy,13,18,40,60,black
+Flower,winter,15,29,40,60,light black
+Flower,winter,20,28,60,70,black
+Flower,winter,18,26,50,65,brown
+Flower,summer,21,29,10,40,brown
+Flower,summer,28,38,65,72,black
+Flower,spring,22,28,50,60,light brown
+Flower,winter,-5,-15,10,30,brown
+Flower,summer,18,34,10,40,red
+Flower,summer,18,34,10,40,light black
+Flower,summer,28,38,65,70,light black
+Flower,summer,30,40,60,70,light red
+Flower,winter,16,38,65,70,black
+Flower,spring,15,25,40,60,brown
+Flower,rainy,24,33,40,50,red
+Flower,spring,0,10,10,30,light black
+Flower,spring,22,35,65,75,brown
+Flower,winter,18,28,60,70,light black
+Flower,winter,18,26,50,70,black
+Flower,summer,28,38,65,75,black
+Flower,spring,20,28,50,60,light brown
+Flower,spring,20,28,50,60,black
+Flower,spring,22,28,50,60,yellow
+Flower,summer,22,35,65,75,light red
+Flower,summer,15,18,40,60,black
+Flower,summer,24,26,55,65,yellow
+Flower,winter,10,25,50,60,light brown
+Flower,summer,30,40,60,72,light black
+Flower,summer,28,38,65,75,black
+Flower,summer,32,41,60,72,brown
+Flower,rainy,30,41,60,72,light brown
+Flower,summer,28,38,70,75,light black
+Flower,winter,20,25,50,60,black
+Flower,spring,30,40,60,70,dark black
+Flower,summer,28,38,65,70,black
+Flower,summer,27,36,65,70,light black
+Flower,summer,26,38,70,75,light black
+Flower,spring,22,28,50,60,brown
+Flower,rainy,22,32,60,70,light brown
+Flower,spring,18,28,50,60,black
+Flower,common,18,28,50,60,light black
+Flower,spring,18,28,50,60,black
+Flower,summer,21,30,55,60,brown
+Flower,spring,16,28,50,60,black
+Flower,summer,30,40,60,70,black
+Flower,rainy,22,32,60,75,black
+Flower,rainy,21,30,55,60,brown
+Flower,summer,30,40,60,70,dark black
+Flower,spring,18,28,10,40,black
+Flower,summer,15,20,40,60,light black
+Flower,rainy,16,32,72,85,black
+Flower,rainy,26,38,65,72,light brown
+Flower,summer,18,32,10,40,light black
+Flower,winter,10,27,50,60,black
+Flower,winter,20,30,60,70,black
+Flower,rainy,7,10,40,60,light black
+Flower,rainy,15,23,50,70,black
+Fruit,summer,23,30,50,95,black
+Fruit,winter,21,24,90,95,brown
+Fruit,winter,12,37,45,50,black
+Fruit,monsoon,32,41,80,85,light grey
+Fruit,spring,20,25,75,85,black
+Fruit,spring,25,32,50,90,black
+Fruit,monsoon,13,38,65,80,brown
+Fruit,winter,15,20,70,80,black
+Fruit,winter,21,32,60,80,dark brown
+Fruit,winter,-25,-20,70,90,red
+Fruit,winter,0,10,90,98,dark brown
+Fruit,winter,30,45,26,30,dark brown
+Fruit,rainy,27,72,80,85,dark brown
+Fruit,monsoon,21,32,30,40,dark brown
+Fruit,summer,15,30,30,50,reddish brown
+Fruit,summer,30,32,85,90,brown
+Fruit,monsoon,16,27,70,80,black
+Fruit,winter,10,38,65,75,brown
+Fruit,summer,25,40,50,60,black
+Fruit,winter,20,30,85,90,brown
+Fruit,winter,17,35,60,80,brown
+Fruit,winter,0,47,65,75,brown
+Fruit,summer,10,25,55,65,brown
+Fruit,monsoon,0,8,85,95,black
+Fruit,spring,15,21,70,80,red
+Fruit,summer,20,30,75,80,brown
+Fruit,winter,7,35,10,17,dark brown
+Fruit,monsoon,15,27,85,90,red
+Fruit,monsoon,5,35,70,80,sandy
+Fruit,summer,25,40,75,85,red
+Fruit,summer,10,25,85,95,brown
+Fruit,monsoon,25,35,30,49,brown
+Fruit,monsoon,20,32,80,85,red
+Fruit,spring,12,48,80,85,red
+Fruit,spring,15,21,50,60,black
+Fruit,winter,7,13,40,50,sandy
+Fruit,winter,25,35,90,95,red
+Fruit,monsoon,20,35,70,80,brown
+Fruit,monsoon,3,32,45,60,brown
+Fruit,summer,20,30,80,85,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,winter,10,40,90,95,brown
+Fruit,spring,21,29,60,80,sandy
+Fruit,monsoon,24,30,75,90,brown
+Fruit,summer,3,44,55,65,sandy
+Fruit,summer,2,35,50,60,brown
+Fruit,monsoon,10,46,70,90,sandy
+Fruit,monsoon,22,30,65,95,sandy
+Fruit,winter,8,15,85,90,dark brown
+Fruit,summer,35,45,75,80,sandy
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,summer,21,24,90,95,brown
+Fruit,winter,12,37,85,90,sandy
+Fruit,winter,25,40,60,70,black
+Fruit,winter,12,37,85,95,loamy
+Fruit,monsoon,12,37,30,40,sandy
+Fruit,winter,12,37,45,50,loamy
+Fruit,winter,12,37,45,50,brown
+Fruit,winter,12,37,85,90,brown
+Fruit,winter,25,40,50,65,loamy
+Fruit,monsoon,13,37,50,65,loamy
+Fruit,winter,25,32,50,65,loamy
+Fruit,monsoon,13,37,85,90,sandy
+Fruit,monsoon,25,32,80,90,black
+Fruit,monsoon,13,37,20,25,black
+Fruit,monsoon,13,38,80,90,black
+Fruit,summer,19,30,50,65,black
+Fruit,summer,25,32,50,90,brown
+Fruit,summer,25,32,50,90,brown
+Fruit,summer,25,32,50,90,brown
+Fruit,summer,25,32,50,90,brown
+Fruit,summer,25,32,50,90,brown
+Fruit,monsoon,25,32,50,90,brown
+Fruit,rainy,24,28,65,80,red
+Fruit,rainy,24,28,65,80,red
+Fruit,spring,18,21,90,95,brown
+Fruit,summer,30,46,40,55,red
+Fruit,monsoon,20,46,40,55,brown
+Fruit,monsoon,21,25,90,95,brown
+Fruit,monsoon,21,25,90,95,brown
+Fruit,monsoon,21,25,90,95,brown
+Fruit,winter,25,44,25,34,black
+Fruit,summer,3,44,50,60,brown
+Fruit,summer,3,44,50,60,sandy
+Fruit,summer,3,44,85,95,sandy
+Fruit,summer,3,44,85,95,sandy
+Fruit,summer,3,44,85,95,sandy
+Fruit,winter,20,30,85,90,black
+Fruit,summer,5,35,69,91,sandy
+Fruit,spring,11,13,85,95,brown
+Fruit,winter,25,35,90,95,loamy
+Fruit,monsoon,20,32,80,85,red
+Fruit,spring,12,48,80,85,red
+Fruit,winter,15,20,70,80,sandy
+Fruit,winter,27,32,80,85,dark brown
+Fruit,spring,27,32,80,85,dark brown
+Fruit,monsoon,27,32,80,85,dark brown
+Fruit,rainy,27,32,80,85,dark brown
+Fruit,monsoon,20,30,80,85,brown
+Fruit,summer,27,35,84,90,sandy
+Fruit,summer,3,44,55,65,sandy
+Fruit,summer,20,30,50,65,loamy
+Fruit,winter,25,35,90,95,brown
+Fruit,winter,25,35,90,95,black
+Fruit,monsoon,20,32,80,85,sandy
+Fruit,spring,12,48,80,85,sandy
+Fruit,monsoon,20,32,80,85,brown
+Fruit,spring,12,48,80,85,brown
+Fruit,monsoon,20,32,80,85,sandy
+Fruit,spring,12,48,80,85,sandy
+Fruit,monsoon,20,32,80,85,brown
+Fruit,spring,12,48,80,85,brown
+Fruit,summer,20,30,80,85,red
+Fruit,summer,3,44,55,65,brown
+Fruit,summer,3,44,55,65,red
+Fruit,summer,3,44,55,65,brown
+Fruit,summer,3,44,55,65,red
+Fruit,winter,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,summer,21,24,90,95,black
+Fruit,winter,12,37,85,90,red
+Fruit,winter,25,40,50,65,sandy
+Fruit,winter,25,40,50,65,brown
+Fruit,winter,25,40,50,65,red
+Fruit,winter,25,40,50,65,black
+Fruit,monsoon,25,32,55,66,brown
+Fruit,summer,25,32,50,90,sandy
+Fruit,summer,25,32,50,90,sandy
+Fruit,summer,25,32,50,90,sandy
+Fruit,summer,25,32,50,90,sandy
+Fruit,summer,25,32,50,90,sandy
+Fruit,monsoon,25,32,50,90,sandy
+Fruit,summer,30,46,21,40,brown
+Fruit,winter,21,24,85,90,sandy
+Fruit,summer,3,44,50,60,black
+Fruit,summer,3,44,50,60,brown
+Fruit,summer,5,35,69,91,loamy
+Fruit,spring,20,25,85,95,red
+Fruit,spring,20,25,85,95,black
+Fruit,spring,20,25,85,95,sandy
+Fruit,winter,15,20,70,80,loamy
+Fruit,winter,15,20,70,80,sandy
+Fruit,winter,15,20,70,80,loamy
+Fruit,summer,25,30,50,65,sandy
+Fruit,summer,25,30,50,65,brown
+Fruit,summer,25,30,50,65,red
+Fruit,summer,25,30,50,65,black
+Fruit,spring,10,38,65,75,brown
+Fruit,summer,12,37,85,90,red
+Fruit,summer,12,37,85,90,brown
+Fruit,autumn,15,30,30,50,reddish brown
+Fruit,summer,7,13,40,50,sandy
+Fruit,summer,12,37,45,50,loamy
+Herb,rainy,23,32,50,60,red
+Herb,monsoon,20,30,60,70,brown
+Herb,monsoon,18,30,10,40,black
+Herb,summer,21,25,60,70,black
+Herb,monsoon,12,35,50,60,red
+Herb,winter,20,35,90,100,red
+Herb,summer,20,30,60,70,black
+Herb,winter,20,25,75,80,black
+Herb,winter,25,28,85,90,black
+Herb,summer,27,32,40,60,black
+Herb,summer,15,25,50,65,black
+Herb,summer,4,30,40,60,black
+Herb,spring,10,30,50,85,black
+Herb,summer,-23,-18,78,92,black
+Herb,summer,20,30,55,78,black
+Herb,summer,18,21,50,66,black
+Herb,spring,20,30,45,55,black
+Herb,spring,15,21,60,70,black
+Herb,summer,27,32,40,60,black
+Herb,winter,26,37,65,72,red
+Herb,spring,20,40,31,45,black
+Herb,monsoon,15,27,60,70,black
+Herb,spring,16,18,72,85,black
+Herb,monsoon,20,30,55,70,brown
+Herb,summer,10,35,21,30,black
+Herb,summer,10,35,21,30,black
+Herb,monsoon,15,27,60,70,black
+Herb,spring,20,40,31,45,black
+Herb,rainy,23,32,50,60,red
+Herb,rainy,23,32,50,60,red
+Herb,rainy,23,32,50,60,red
+Herb,monsoon,18,30,10,40,black
+Herb,monsoon,18,30,10,40,black
+Herb,winter,20,35,90,100,black
+Herb,winter,20,35,90,100,black
+Herb,winter,20,35,90,100,black
+Herb,summer,20,30,60,70,black
+Herb,summer,20,30,60,70,black
+Herb,summer,20,30,60,70,black
+Herb,summer,20,30,60,70,black
+Herb,summer,20,30,60,70,black
+Herb,summer,20,30,60,70,black
+Herb,summer,20,30,60,70,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,winter,20,25,75,80,black
+Herb,summer,15,25,50,65,black
+Herb,summer,15,25,50,65,black
+Herb,summer,15,25,50,65,black
+Herb,summer,15,25,50,65,black
+Herb,summer,15,25,50,65,black
+Herb,summer,15,25,50,65,black
+Herb,summer,15,25,50,65,black
+Herb,summer,15,25,50,65,black
+Herb,summer,4,30,40,60,black
+Herb,summer,4,30,40,60,black
+Herb,summer,4,30,40,60,black
+Herb,summer,4,30,40,60,black
+Herb,summer,4,30,40,60,black
+Herb,summer,4,30,40,60,black
+Herb,summer,20,30,55,78,brown
+Herb,summer,20,30,55,78,brown
+Herb,summer,20,30,55,78,brown
+Herb,summer,20,30,55,78,brown
+Herb,summer,20,30,55,78,brown
+Herb,summer,20,30,55,78,brown
+Herb,summer,20,30,55,78,brown
+Herb,summer,18,21,50,66,black
+Herb,summer,18,21,50,66,black
+Herb,summer,18,21,50,66,black
+Herb,summer,18,21,50,66,black
+Herb,summer,18,21,50,66,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,20,30,45,55,black
+Herb,spring,15,21,60,70,black
+Herb,winter,26,37,65,72,red
+Herb,winter,26,37,65,72,red
+Herb,winter,26,37,65,72,red
+Herb,winter,26,37,65,72,red
+Herb,monsoon,15,27,60,70,red
+Herb,monsoon,15,27,60,70,red
+Herb,monsoon,15,27,60,70,red
+Herb,spring,16,18,72,85,brown
+Herb,spring,16,18,72,85,brown
+Herb,spring,16,18,72,85,brown
+Herb,spring,16,18,72,85,brown
+Vegetable,summer,23,32,50,60,reddish brown
+Vegetable,monsoon,20,30,60,70,black
+Vegetable,summer,18,30,10,40,light brown
+Vegetable,monsoon,18,30,10,40,light brown
+Vegetable,monsoon,21,25,60,70,black
+Vegetable,spring,12,35,50,60,red
+Vegetable,winter,20,35,90,100,black
+Vegetable,spring,20,30,60,70,black
+Vegetable,spring,20,25,75,80,black
+Vegetable,spring,25,28,85,90,sandy
+Vegetable,summer,27,32,40,60,black
+Vegetable,autumn,15,25,50,65,black
+Vegetable,spring,4,30,40,60,brown
+Vegetable,spring,10,30,50,85,black
+Vegetable,spring,-23,-18,78,92,red
+Vegetable,spring,20,30,55,78,black
+Vegetable,spring,18,21,50,66,brown
+Vegetable,spring,20,26,45,55,black
+Vegetable,spring,15,21,25,40,black
+Vegetable,winter,40,80,85,90,light brown
+Vegetable,summer,21,24,50,70,red
+Vegetable,summer,18,21,60,70,light yellow
+Vegetable,winter,18,21,60,70,light yellow
+Vegetable,rainy,45,80,90,100,light brown
+Vegetable,rainy,4,35,95,100,light brown
+Vegetable,summer,4,35,95,100,light brown
+Vegetable,winter,15,35,70,80,red
+Vegetable,rainy,15,35,70,80,red
+Vegetable,rainy,24,27,65,85,light brown
+Vegetable,summer,24,27,65,85,light brown
+Vegetable,summer,20,40,90,95,red
+Vegetable,winter,20,40,90,95,red
+Vegetable,rainy,4,7,90,100,light brown
+Vegetable,winter,10,13,50,70,light brown
+Vegetable,rainy,10,13,50,70,light brown
+Vegetable,rainy,-9,25,98,99,black
+Vegetable,monsoon,10,40,82,90,light brown
+Vegetable,rainy,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,26,90,95,dark brown
+Vegetable,summer,5,24,90,95,light brown
+Vegetable,winter,10,33,80,90,black
+Vegetable,monsoon,18,35,85,90,brown
+Vegetable,rainy,18,27,95,100,light brown
+Vegetable,summer,23,30,70,90,light brown
+Vegetable,winter,-33,38,90,95,black
+Vegetable,summer,7,30,90,98,light yellow
+Vegetable,winter,21,30,90,95,light black
+Vegetable,summer,18,30,8,13,brown
+Vegetable,rainy,-8,35,90,95,light brown
+Vegetable,winter,18,30,75,80,black
+Vegetable,rainy,5,22,83,85,black
+Vegetable,common,-34,16,70,80,brown
+Vegetable,rainy,20,25,60,70,brown
+Vegetable,rainy,25,30,50,75,brown
+Vegetable,summer,25,30,50,75,brown
+Vegetable,monsoon,18,27,93,98,brown
+Vegetable,summer,18,27,93,98,brown
+Vegetable,winter,0,17,83,95,black
+Vegetable,rainy,30,40,45,52,brown
+Vegetable,summer,30,40,45,52,brown
+Vegetable,summer,30,35,68,85,brown
+Vegetable,summer,30,35,30,50,light brown
+Vegetable,common,-10,29,90,95,light brown
+Vegetable,common,22,35,50,75,brown
+Vegetable,winter,12,21,90,100,black
+Vegetable,winter,7,24,90,95,brown
+Vegetable,summer,13,18,85,95,light brown
+Vegetable,summer,0,23,50,70,black
+Vegetable,summer,5,24,70,80,brown
+Vegetable,summer,10,35,85,90,brown
+Vegetable,monsoon,4,12,90,95,black
+Vegetable,summer,9,23,98,100,light black
+Vegetable,winter,9,23,98,100,light black
+Vegetable,summer,-9,36,90,95,brown
+Vegetable,winter,-9,36,90,95,brown
+Vegetable,winter,10,12,90,95,black
+Vegetable,summer,30,40,70,85,light brown
+Vegetable,summer,15,35,80,85,black
+Vegetable,summer,20,32,60,80,light red
+Vegetable,summer,15,35,75,80,light brown
+Vegetable,summer,10,15,90,95,black
+Vegetable,spring,8,20,60,70,black
+Vegetable,summer,23,30,80,90,black
+Vegetable,summer,15,38,90,95,light brown
+Vegetable,winter,15,38,90,95,light brown
+Vegetable,rainy,21,29,80,90,brown
+Vegetable,summer,21,29,80,90,brown
+Vegetable,winter,18,24,90,95,brown
+Vegetable,rainy,18,24,90,95,brown
+Vegetable,summer,26,30,50,75,light brown
+Vegetable,spring,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,winter,15,23,70,80,black
+Vegetable,fall,30,35,65,70,brown
+Vegetable,summer,15,21,70,90,reddish
+Vegetable,summer,21,27,45,54,dark brown
+Vegetable,common,54,55,90,95,dark brown
+Vegetable,winter,10,29,80,90,brown
+Vegetable,summer,20,30,55,70,brown
+Vegetable,winter,20,30,55,70,brown
+Vegetable,rainy,15,25,70,90,brown
+Vegetable,winter,22,35,50,75,reddish
+Vegetable,summer,22,35,50,75,reddish
+Vegetable,winter,24,35,70,85,reddish brown
+Vegetable,monsoon,30,37,60,89,black
+Vegetable,winter,13,24,54,89,red
+Vegetable,fall,25,31,60,78,dark brown
+Vegetable,winter,25,31,60,78,dark brown
+Vegetable,summer,32,35,70,88,light brown
+Vegetable,winter,-5,15,35,40,light brown
+Vegetable,summer,10,23,45,60,light brown
+Vegetable,winter,7,24,28,33,brown
+Vegetable,summer,17,21,63,71,dark brown
+Vegetable,spring,17,21,63,71,dark brown
+Vegetable,common,21,33,90,95,light brown
+Vegetable,winter,50,60,52,69,dark brown
+Vegetable,summer,15,35,55,70,red
+Vegetable,monsoon,25,44,55,65,dark brown
+Vegetable,common,-6,32,5,8,black
+Vegetable,summer,7,28,20,26,light brown
+Vegetable,winter,15,20,40,60,reddish
+Vegetable,spring,4,30,30,40,brown
+Vegetable,fall,4,30,30,40,brown
+Vegetable,rainy,25,30,66,75,brown
+Vegetable,summer,15,40,50,63,dark brown
+Vegetable,summer,15,40,50,63,blue
+Vegetable,summer,25,30,60,75,black
+Vegetable,monsoon,23,38,40,60,black
+Vegetable,winter,15,55,72,85,brown
+Vegetable,winter,40,80,85,90,light brown
+Vegetable,winter,40,80,85,90,light brown
+Vegetable,winter,40,80,85,90,light brown
+Vegetable,winter,40,80,85,90,light brown
+Vegetable,summer,21,24,50,70,red
+Vegetable,summer,21,24,50,70,red
+Vegetable,summer,18,21,60,70,light yellow
+Vegetable,winter,18,21,60,70,light yellow
+Vegetable,winter,18,21,60,70,light yellow
+Vegetable,summer,18,21,60,70,light yellow
+Vegetable,rainy,4,35,95,100,light brown
+Vegetable,summer,4,35,95,100,light brown
+Vegetable,winter,15,35,70,80,red
+Vegetable,rainy,15,35,70,80,red
+Vegetable,summer,20,40,90,95,red
+Vegetable,winter,20,40,90,95,red
+Vegetable,summer,20,40,90,95,red
+Vegetable,winter,20,40,90,95,red
+Vegetable,summer,20,40,90,95,red
+Vegetable,winter,20,40,90,95,red
+Vegetable,summer,20,40,90,95,red
+Vegetable,winter,20,40,90,95,red
+Vegetable,rainy,4,7,90,100,light brown
+Vegetable,winter,10,13,60,70,light brown
+Vegetable,rainy,10,13,60,70,light brown
+Vegetable,winter,10,13,60,70,light brown
+Vegetable,rainy,10,13,60,70,light brown
+Vegetable,winter,10,13,60,70,light brown
+Vegetable,rainy,10,13,60,70,light brown
+Vegetable,rainy,10,13,60,70,light brown
+Vegetable,rainy,10,13,60,70,light brown
+Vegetable,monsoon,10,40,82,90,light brown
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,30,70,90,black
+Vegetable,summer,15,26,90,95,dark brown
+Vegetable,summer,15,26,90,95,dark brown
+Vegetable,summer,15,26,90,95,dark brown
+Vegetable,summer,15,26,90,95,dark brown
+Vegetable,summer,5,24,90,95,light brown
+Vegetable,winter,10,33,80,90,black
+Vegetable,winter,10,33,80,90,black
+Vegetable,summer,23,30,70,90,light brown
+Vegetable,summer,23,30,70,90,light brown
+Vegetable,summer,8,30,90,98,light yellow
+Vegetable,winter,21,30,90,95,light black
+Vegetable,winter,21,30,90,95,light black
+Vegetable,summer,15,35,75,80,light brown
+Vegetable,summer,15,35,75,80,light brown
+Vegetable,summer,15,35,75,80,light brown
+Vegetable,summer,15,35,75,80,light brown
+Vegetable,summer,15,35,75,80,light brown
+Vegetable,spring,8,20,60,70,black
+Vegetable,rainy,18,24,90,95,brown
+Vegetable,rainy,18,24,90,95,brown
+Vegetable,rainy,18,24,90,95,brown
+Vegetable,rainy,18,24,90,95,brown
+Vegetable,rainy,18,24,90,95,brown
+Vegetable,rainy,18,24,90,95,brown
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,spring,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,fall,10,20,44,76,black
+Vegetable,winter,18,24,90,95,brown
+Vegetable,winter,18,24,90,95,brown
+Vegetable,winter,18,24,90,95,brown
+Vegetable,winter,18,24,90,95,brown
+Vegetable,winter,18,24,90,95,brown
+Vegetable,winter,18,24,90,95,brown
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,rainy,15,30,70,90,black
+Vegetable,winter,10,13,60,70,light brown
+Vegetable,winter,10,13,60,70,light brown

@@ -1,0 +1,262 @@
+Name,Season,MinTemp,MaxTemp,Minhumid,Maxhumid,Soil
+Blackpepper,summer,23,32,50,60,reddish brown
+Cinnamon,monsoon,20,30,60,70,black
+Alovera,summer,18,30,10,40,light brown
+Alovera,monsoon,18,30,10,40,light brown
+Ginger,monsoon,21,25,60,70,black
+Sandalwood,spring,12,35,50,60,red
+Ashwagandha,winter,20,35,90,100,black
+Red Clover,spring,20,30,60,70,black
+Burdock,spring,20,25,75,80,black
+Bayberry,spring,25,28,85,90,sandy
+Basil,summer,27,32,40,60,black
+Fennel,autum,15,25,50,65,black
+Chives,spring,4,30,40,60,brown
+Cilantro,spring,10,30,50,85,black
+Apple mint,spring,-23,-18,78,92,red
+Thyme,spring,20,30,55,78,black
+Golden orengno,spring,18,21,50,66,brown
+Rosemary,spring,20,26,45,55,black
+Variegated Sage,spring,15,21,25,40,black
+Potato,winter,40,80,85,90,light brown
+Tomato,summer,21,24,50,70,red
+Brinjal,summer,18,21,60,70,light yellow
+Brinjal,winter,18,21,60,70,light yellow
+Cabbage,rainy,45,80,90,100,light brown
+Radish,rainy,4,35,95,100,light brown
+Radish,summer,4,35,95,100,light brown
+Onion,winter,15,35,70,80,red
+Onion,rainy,15,35,70,80,red
+Bitter Gourd,rainy,24,27,65,85,light brown
+Bitter Gourd,summer,24,27,65,85,light brown
+Lady’s finger,summer,20,40,90,95,red
+Lady’s finger,winter,20,40,90,95,red
+Cauliflower,rainy,4,7,90,100,light brown
+Pumpkin,winter,10,13,50,70,light brown
+Pumpkin,rainy,10,13,50,70,light brown
+Carrot,rainy,-9,25,98,99,black
+Ginger,monsoon ,10,40,82,90,light brown
+Chilli,rainy,15,30,70,90,black
+Chilli,summer,15,30,70,90,black
+Capsicum,summer,15,26,90,95,dark brown
+Spinach,summer,5,24,90,95,light brown
+Mushroom,winter,10,33,80,90,black
+Sweet Potato,monsoon,18,35,85,90,brown
+Beetroot,rainy ,18,27,95,100,light brown
+Cucumber,summer,23,30,70,90,light brown
+Broccoli,winter,-33,38,90,95,black
+Asparagus,summer ,7,30,90,98,light yellow
+Celery,winter,21,30,90,95,light black
+Green bean,summer,18,30,8,13,brown
+Chickpea,rainy,-8,35,90,95,light brown
+Lentil,winter,18,30,75,80,black
+Peas,rainy ,5,22,83,85,black
+Garlic,common,-34,16,70,80,brown
+Coriander,rainy,20,25,60,70,brown
+Drumstick,rainy,25,30,50,75,brown
+Drumstick,summer,25,30,50,75,brown
+Bottle Gourd,mansoon,18,27,93,98,brown
+Bottle Gourd,summer,18,27,93,98,brown
+Leek,winter,0,17,83,95,black
+Cluster Beans,rainy,30,40,45,52,brown
+Cluster Beans,summer,30,40,45,52,brown
+Pointed Gourd,summer,30,35,68,85,brown
+Yam,summer,30,35,30,50,light brown
+Artichoke,common,-10,29,90,95,light brown
+Ash Gourd,common,22,35,50,75,brown
+Bok Choy,winter,12,21,90,100,black
+Brussels Sprout,winter,7,24,90,95,brown
+Chayote,summer,13,18,85,95,light brown
+Endive,summer,0,23,50,70,black
+Kohlrabi,summer,5,24,70,80,brown
+Zucchini,summer,10,35,85,90,brown
+Turnip,monsoon,4,12,90,95,black
+Swiss Chard,summer,9,23,98,100,light black
+Swiss Chard,winter,9,23,98,100,light black
+Ridge Gourd,summer,-9,36,90,95,brown
+Ridge Gourd,winter,-9,36,90,95,brown
+Parsnip,winter,10,12,90,95,black
+Luffa,summer,30,40,70,85,light brown
+Zucchini,summer,15,35,80,85,black
+Xigua,summer,20,32,60,80,light red
+Yarrow,summer,15,35,75,80,light brown
+Watercress,summer&rainy,10,15,90,95,black
+Wasabi,spring,8,20,60,70,black
+Baby corn,summer,23,30,80,90,black
+Velvet Bean, summer,15,38,90,95,light brown
+Velvet Bean, winter ,15,38,90,95,light brown
+Amaranth leaves,rainy,21,29,80,90,brown
+Amaranth leaves,summer,21,29,80,90,brown
+Ulluco,winter,18,24,90,95,brown
+Ulluco,rainy ,18,24,90,95,brown
+Soybeans,summer,26,30,50,75,light brown
+Sorrel,spring,10,20,44,76,black
+Sorrel,fall,10,20,44,76,black
+Snow Peas,winter,15,23,70,80,black
+Shallots,fall,30,35,65,70,brown
+Red Cabbage,summer,15,21,70,90,reddish
+Quince,summer,21,27,45,54,dark browm
+Palm Heart,common,54,55,90,95,dark  browm
+Parsley,winter,10,29,80,90,brown
+Oyster Plant,summer,20,30,55,70,brown
+Oyster Plant,winter,20,30,55,70,brown
+Nettles,rainy ,15,25,70,90,brown
+Nopales,winter,22,35,50,75,reddish
+Nopales,summer ,22,35,50,75,reddish
+Kidney Beans,winter,24,35,70,85, reddish brown
+Kurrat,monsoon,30,37,60,89,black
+Kale,winter,13,24,54,89,red
+Jerusalem Artichoke ,fall ,25,31,60,78,dark brown
+Jerusalem Artichoke ,winter,25,31,60,78,dark brown
+Habanero Chili,summer,32,35,70,88,light brown 
+Irish Moss,winter,-5,15,35,40,light brown 
+Ice plant,summer,10,23,45,60,light brown 
+Horseradish,winter,7,24,28,33,brownish
+Garbanzo Bean,summer,17,21,63,71,dark brown
+Garbanzo Bean,spring,17,21,63,71,dark brown
+Green Bell Pepper ,common,21,33,90,95,light brown 
+Fluted Pumpkin,winter,50,60,52,69,dark brown
+Daikon,summer,15,35,55,70,red
+Corn,monsoon,25,44,55,65,dark brtown
+Ceylon Spinach,common,-6,32,5,8,black
+Cape Gooseberry,summer,7,28,20,26,light brown 
+Cactus Leave,winter,15,20,40,60,reddish
+Chives,spring,4,30,30,40,brown
+Chives,fall,4,30,30,40,brown
+Chinese Mallow,rainy,25,30,66,75,brown
+Black Beans,summer,15,40,50,63,dark brown
+Azuki Beans,summer,15,40,50,63,blue
+Aonori,summer,25,30,60,75,black
+Arame,monsoon,23,38,40,60,black
+Arracacha,winter,15,55,72,85,brown
+Spud,winter ,40,80,85,90,light brown 
+Murphy,winter,40,80,85,90,light brown
+Tater,winter,40,80,85,90,light brown
+Tuber,winter,40,80,85,90,light brown
+Love Apple,summer,21,24,50,70,red
+Cherry Tomato ,summer,21,24,50,70,red
+Eggplant,summer,18,21,60,70,light yellow
+Eggplant,winter,18,21,60,70,light yellow
+Globe Eggplant,winter,18,21,60,70,light yellow
+Globe Eggplant,summer,18,21,60,70,light yellow
+Daikon,rainy,4,35,95,100,light brown 
+Daikon,summer,4,35,95,100,light brown 
+Celeriac,winter,15,35,70,80,red
+Celeriac,rainy,15,35,70,80,red
+Biscuit,summer,20,40,90,95,red
+Biscuit,winter,20,40,90,95,red
+Okra,summer,20,40,90,95,red
+Okra,winter,20,40,90,95,red
+Gumbo,summer,20,40,90,95,red
+Gumbo,winter,20,40,90,95,red
+Cut Leaf Daisy,summer,20,40,90,95,red
+Cut Leaf Daisy,winter,20,40,90,95,red
+Crucifer,rainy,4,7,90,100,light brown
+Jack-o'-Lantern,winter,10,13,60,70,light brown
+Jack-o'-Lantern,rainy,10,13,60,70,light brown
+Vine,winter,10,13,60,70,light brown
+Vine,rainy,10,13,60,70,light brown
+Pepo,winter,10,13,60,70,light brown
+Pepo,rainy,10,13,60,70,light brown
+Baby Huey,rainy,10,13,60,70,light brown
+Winter Squash,rainy,10,13,60,70,light brown
+Zingiber Officinale,monsoon,10,40,82,90,light brown 
+Jalapeno,summer,15,30,70,90,black
+Poblano,summer,15,30,70,90,black
+Chilaca,summer,15,30,70,90,black
+Anaheim,summer,15,30,70,90,black
+Mirasol,summer,15,30,70,90,black
+Sirrano,summer,15,30,70,90,black
+Bola,summer,15,30,70,90,black
+Cascabel,summer,15,30,70,90,black
+Chile Seco,summer,15,30,70,90,black
+Guajillo,rainy,15,30,70,90,black
+Guajillo,summer,15,30,70,90,black
+Colorado ,summer,15,30,70,90,black
+Pasilla,summer,15,30,70,90,black
+Ancho,summer,15,30,70,90,black
+Chipotle,summer,15,30,70,90,black
+Green Pepper,summer,15,26,90,95,dark brown
+Yellow Pepper,summer,15,26,90,95,dark brown
+Chilli Pepper,summer,15,26,90,95,dark brown
+Orange Pepper,summer,15,26,90,95,dark brown
+Catalina,summer,5,24,90,95,light brown 
+Mushmallow,winter,10,33,80,90,black
+Mooshroom,winter,10,33,80,90,black
+Lemon Cucumber  ,summer,23,30,70,90,light brown
+Yellow Cucumber,summer,23,30,70,90,light brown 
+Garden Asparagus,summer,8,30,90,98,light yellow
+Dulce,winter,21,30,90,95,light black
+Rapaceum,winter,21,30,90,95,light black
+Achillea,summer,15,35,75,80,light brown 
+Bloodwort,summer,15,35,75,80,light brown 
+Nosebleed,summer,15,35,75,80,light brown 
+Staunchweed,summer,15,35,75,80,light brown 
+Devil's Nettle,summer,15,35,75,80,light brown 
+Horseradish,spring ,8,20,60,70,black
+Papa Lisa,rainy,18,24,90,95,brown
+Melloco,rainy ,18,24,90,95,brown
+Ruba,rainy,18,24,90,95,brown
+Illaco,rainy ,18,24,90,95,brown
+Chungua,rainy ,18,24,90,95,brown
+Olluco,rainy,18,24,90,95,brown
+Acedera,spring,10,20,44,76,black
+Acedera Común,spring,10,20,44,76,black
+Azeda-Brava,spring,10,20,44,76,black
+Common Sorrel,spring,10,20,44,76,black
+Field Sorrel,spring,10,20,44,76,black
+"Garden Sorrel,",spring,10,20,44,76,black
+Oseille,spring,10,20,44,76,black
+Oseille Commune,spring,10,20,44,76,black
+Oseille des Champs,spring,10,20,44,76,black
+Petite Oseille,spring,10,20,44,76,black
+Red Sorrel,spring,10,20,44,76,black
+Rumex acetosa,spring,10,20,44,76,black
+Wiesensauerampfer,spring,10,20,44,76,black
+Vignette,spring,10,20,44,76,black
+Vinette,spring,10,20,44,76,black
+Sour Dock,spring,10,20,44,76,black
+Sorrel Dock,spring,10,20,44,76,black
+"Rumex acetosella,",spring,10,20,44,76,black
+Sheep's Sorrel,spring,10,20,44,76,black
+Sheep's Sorrel,fall,10,20,44,76,black
+Rumex acetosella,fall,10,20,44,76,black
+Sorrel Dock,fall,10,20,44,76,black
+Sour Dock,fall,10,20,44,76,black
+Vinette,fall,10,20,44,76,black
+Vignette,fall,10,20,44,76,black
+Acedera,fall,10,20,44,76,black
+Acedera Común,fall,10,20,44,76,black
+Azeda-Brava,fall,10,20,44,76,black
+Common Sorrel,fall,10,20,44,76,black
+Field Sorrel,fall,10,20,44,76,black
+Garden Sorrel,fall,10,20,44,76,black
+Oseille,fall,10,20,44,76,black
+Oseille Commune,fall,10,20,44,76,black
+Oseille des Champs,fall,10,20,44,76,black
+Petite Oseille,fall,10,20,44,76,black
+Red Sorrel,fall,10,20,44,76,black
+Rumex acetosa,fall,10,20,44,76,black
+Wiesensauerampfer,fall,10,20,44,76,black
+Papa Lisa,Winter,18,24,90,95,brown
+Melloco,Winter,18,24,90,95,brown
+Ruba,Winter,18,24,90,95,brown
+Illaco,Winter,18,24,90,95,brown
+Chungua,Winter,18,24,90,95,brown
+Olluco,Winter,18,24,90,95,brown
+Chipotle,rainy,15,30,70,90,black
+Jalapeno,rainy,15,30,70,90,black
+Poblano,rainy,15,30,70,90,black
+Chilaca,rainy,15,30,70,90,black
+Anaheim,rainy,15,30,70,90,black
+Mirasol,rainy,15,30,70,90,black
+Sirrano,rainy,15,30,70,90,black
+Bola,rainy,15,30,70,90,black
+Cascabel,rainy,15,30,70,90,black
+Chile Seco,rainy,15,30,70,90,black
+Guajillo,rainy,15,30,70,90,black
+Colorado,rainy,15,30,70,90,black
+Pasilla,rainy,15,30,70,90,black
+Ancho,rainy,15,30,70,90,black
+Baby Huey,winter,10,13,60,70,light brown 
+Winter Squash,winter,10,13,60,70,light brown 
